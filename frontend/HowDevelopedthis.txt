@@ -1,0 +1,13 @@
+Install React
+Install tilwindCss
+then use DesiUi Components For UI
+
+
+React Router DOM For Routing
+--Make sure to remove the restirct mode in Main.jsk
+
+Use React Form Hooks
+--Form Validation 
+
+
+ We need to install axios for work with API's
